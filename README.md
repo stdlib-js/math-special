@@ -73,6 +73,12 @@ var o = ns;
 
 <!-- <toc pattern="*+(abs|ceil|floor|clamp|trunc|round|signum)*" > -->
 
+<div class="namespace-toc">
+
+-   <span class="signature">[`abs( x[, options] )`][@stdlib/math/special/abs]</span><span class="delimiter">: </span><span class="description">compute the absolute value.</span>
+
+</div>
+
 <!-- </toc> -->
 
 ### Other Special Functions
@@ -160,6 +166,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-special/main/LICENSE
 
 <!-- <toc-links> -->
+
+[@stdlib/math/special/abs]: https://github.com/stdlib-js/math-special-abs
 
 <!-- </toc-links> -->
 
