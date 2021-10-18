@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
-> Standard library special math functions.
+> Special math functions.
 
 <section class="installation">
 
@@ -44,7 +44,7 @@ var ns = require( '@stdlib/math-special' );
 
 #### ns
 
-Standard library special math functions.
+Namespace containing special math functions.
 
 ```javascript
 var o = ns;
