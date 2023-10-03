@@ -18,38 +18,47 @@ limitations under the License.
 
 -->
 
+
+<details>
+  <summary>
+    About stdlib...
+  </summary>
+  <p>We believe in a future in which the web is a preferred environment for numerical computation. To help realize this future, we've built stdlib. stdlib is a standard library, with an emphasis on numerical and scientific computation, written in JavaScript (and C) for execution in browsers and in Node.js.</p>
+  <p>The library is fully decomposable, being architected in such a way that you can swap out and mix and match APIs and functionality to cater to your exact preferences and use cases.</p>
+  <p>When you use stdlib, you can be absolutely certain that you are using the most thorough, rigorous, well-written, studied, documented, tested, measured, and high-quality code out there.</p>
+  <p>To join us in bringing numerical computing to the web, get started by checking us out on <a href="https://github.com/stdlib-js/stdlib">GitHub</a>, and please consider <a href="https://opencollective.com/stdlib">financially supporting stdlib</a>. We greatly appreciate your continued support!</p>
+</details>
+
 # Special Functions
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Special math functions.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/math-special
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
-To use in Observable,
-
 ```javascript
-ns = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@umd/bundle.js' )
-```
-
-To include the bundle in a webpage,
-
-```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-special@umd/bundle.js"></script>
-```
-
-If no recognized module system is present, access bundle contents via the global scope:
-
-```html
-<script type="text/javascript">
-(function () {
-    window.ns;
-})();
-</script>
+var ns = require( '@stdlib/math-special' );
 ```
 
 #### ns
@@ -117,21 +126,11 @@ var o = ns;
 
 <!-- eslint no-undef: "error" -->
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@umd/bundle.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-special@umd/bundle.js"></script>
-<script type="text/javascript">
-(function () {
+```javascript
+var objectKeys = require( '@stdlib/utils-keys' );
+var ns = require( '@stdlib/math-special' );
 
 console.log( objectKeys( ns ) );
-
-})();
-</script>
-</body>
-</html>
 ```
 
 </section>
@@ -172,7 +171,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -199,7 +198,7 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
@@ -211,12 +210,13 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [deno-url]: https://github.com/stdlib-js/math-special/tree/deno
 [umd-url]: https://github.com/stdlib-js/math-special/tree/umd
 [esm-url]: https://github.com/stdlib-js/math-special/tree/esm
+[branches-url]: https://github.com/stdlib-js/math-special/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-special/main/LICENSE
 
 <!-- <toc-links> -->
 
-[@stdlib/math/special/abs]: https://github.com/stdlib-js/math-special-abs/tree/umd
+[@stdlib/math/special/abs]: https://github.com/stdlib-js/math-special-abs
 
 <!-- </toc-links> -->
 
