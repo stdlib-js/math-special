@@ -45,7 +45,7 @@
     "@stdlib/assert-has-property": "^0.1.1",
     "@stdlib/assert-is-browser": "^0.1.1",
     "@stdlib/assert-is-typed-array-like": "^0.1.0",
-    "@stdlib/bench": "^0.1.0",
+    "@stdlib/bench": "^0.2.0",
     "@stdlib/fs-write-file": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
     "@stdlib/math-base-special-abs": "^0.1.1",
