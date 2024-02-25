@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-special/tags). For example,
+
+```javascript
 import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { abs } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@v0.2.1-deno/mod.js';
+import { abs } from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@deno/mod.js';
 ```
 
 #### ns
@@ -110,7 +115,7 @@ var o = ns;
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@v0.2.1-deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-special@deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
