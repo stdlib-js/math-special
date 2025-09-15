@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-14)
+## Unreleased (2025-09-15)
 
 <section class="features">
 
@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`d686540`](https://github.com/stdlib-js/stdlib/commit/d68654015c8d42b2d7cefbed4a42d7dd02344575) - correct function references in `absgammaln` entry
 -   [`ece831b`](https://github.com/stdlib-js/stdlib/commit/ece831b187c2e9b9ee3d29b527b39b4005ee9fe8) - fallback to `assign` method
 -   [`280494a`](https://github.com/stdlib-js/stdlib/commit/280494ae7aa4394e84bcf9aaa2833698a0b6a82c) - ensure support for \"generic\" ndarrays
 
@@ -54,6 +55,7 @@
 
 <details>
 
+-   [`d686540`](https://github.com/stdlib-js/stdlib/commit/d68654015c8d42b2d7cefbed4a42d7dd02344575) - **fix:** correct function references in `absgammaln` entry _(by Philipp Burckhardt)_
 -   [`ebe6958`](https://github.com/stdlib-js/stdlib/commit/ebe6958b249324104a1aeca54a75480fb6555cdf) - **feat:** add unary function database in `math/special/data` [(#8065)](https://github.com/stdlib-js/stdlib/pull/8065) _(by Gunj Joshi, Athan Reines)_
 -   [`c7229c9`](https://github.com/stdlib-js/stdlib/commit/c7229c91160851c316f4caefd6aea6e387621edd) - **refactor:** consolidate files _(by Athan Reines)_
 -   [`491ccba`](https://github.com/stdlib-js/stdlib/commit/491ccba47c32b20c1e90e468d6e187aa0583e8b8) - **refactor:** reorder imports _(by Athan Reines)_
