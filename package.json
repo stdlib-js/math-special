@@ -19,6 +19,7 @@
     "doc": "./docs",
     "example": "./examples",
     "lib": "./lib",
+    "scripts": "./scripts",
     "test": "./test"
   },
   "types": "./docs/types",
@@ -41,6 +42,7 @@
     "@stdlib/utils-define-read-only-property": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-has-property": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
     "@stdlib/fs-write-file": "^0.2.2",
