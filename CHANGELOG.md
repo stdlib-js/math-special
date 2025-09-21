@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-17)
+## Unreleased (2025-09-21)
 
 <section class="features">
 
 ### Features
 
+-   [`3a77e5b`](https://github.com/stdlib-js/stdlib/commit/3a77e5b3dc949ab8abfe0b372dc1f2ca94ee698e) - update `math/special` TypeScript declarations
 -   [`b8c8599`](https://github.com/stdlib-js/stdlib/commit/b8c859949da73f6f5f834ba91a00cb8b04bc0560) - add unary scaffold database and associated generation script [(#8084)](https://github.com/stdlib-js/stdlib/pull/8084)
 -   [`ebe6958`](https://github.com/stdlib-js/stdlib/commit/ebe6958b249324104a1aeca54a75480fb6555cdf) - add unary function database in `math/special/data` [(#8065)](https://github.com/stdlib-js/stdlib/pull/8065)
 
@@ -21,6 +22,7 @@
 
 ### Bug Fixes
 
+-   [`3618307`](https://github.com/stdlib-js/stdlib/commit/3618307d26ce818f5c5f543a0ad22e24c319e4a7) - access enum values via data type objects
 -   [`d686540`](https://github.com/stdlib-js/stdlib/commit/d68654015c8d42b2d7cefbed4a42d7dd02344575) - correct function references in `absgammaln` entry
 -   [`ece831b`](https://github.com/stdlib-js/stdlib/commit/ece831b187c2e9b9ee3d29b527b39b4005ee9fe8) - fallback to `assign` method
 -   [`280494a`](https://github.com/stdlib-js/stdlib/commit/280494ae7aa4394e84bcf9aaa2833698a0b6a82c) - ensure support for \"generic\" ndarrays
@@ -28,6 +30,16 @@
 </section>
 
 <!-- /.bug-fixes -->
+
+<section class="reverts">
+
+### Reverts
+
+-   [`be44dd1`](https://github.com/stdlib-js/stdlib/commit/be44dd10bbf2f4a3eaf81ee942c8bbb05372947d) - fix: correct function references in `absgammaln` entry
+
+</section>
+
+<!-- /.reverts -->
 
 <section class="breaking-changes">
 
@@ -56,6 +68,10 @@
 
 <details>
 
+-   [`be44dd1`](https://github.com/stdlib-js/stdlib/commit/be44dd10bbf2f4a3eaf81ee942c8bbb05372947d) - **revert:** fix: correct function references in `absgammaln` entry _(by Philipp Burckhardt)_
+-   [`3a77e5b`](https://github.com/stdlib-js/stdlib/commit/3a77e5b3dc949ab8abfe0b372dc1f2ca94ee698e) - **feat:** update `math/special` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`3618307`](https://github.com/stdlib-js/stdlib/commit/3618307d26ce818f5c5f543a0ad22e24c319e4a7) - **fix:** access enum values via data type objects _(by Athan Reines)_
+-   [`3e48fcc`](https://github.com/stdlib-js/stdlib/commit/3e48fcc6bf6ad7ca53e1241bb6fb382d4684d977) - **docs:** update type _(by Athan Reines)_
 -   [`b8c8599`](https://github.com/stdlib-js/stdlib/commit/b8c859949da73f6f5f834ba91a00cb8b04bc0560) - **feat:** add unary scaffold database and associated generation script [(#8084)](https://github.com/stdlib-js/stdlib/pull/8084) _(by Gunj Joshi, Athan Reines)_
 -   [`d686540`](https://github.com/stdlib-js/stdlib/commit/d68654015c8d42b2d7cefbed4a42d7dd02344575) - **fix:** correct function references in `absgammaln` entry _(by Philipp Burckhardt)_
 -   [`ebe6958`](https://github.com/stdlib-js/stdlib/commit/ebe6958b249324104a1aeca54a75480fb6555cdf) - **feat:** add unary function database in `math/special/data` [(#8065)](https://github.com/stdlib-js/stdlib/pull/8065) _(by Gunj Joshi, Athan Reines)_
