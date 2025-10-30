@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`76c09a7`](https://github.com/stdlib-js/stdlib/commit/76c09a7480fc8f9c1ce4846bfd63ecb65f5673ea) - update math scaffold databases [(#8312)](https://github.com/stdlib-js/stdlib/pull/8312)
 -   [`50d8f17`](https://github.com/stdlib-js/stdlib/commit/50d8f17e5fb4a6fd9b9ef5919bf28a5632e824db) - update math scaffold databases [(#8311)](https://github.com/stdlib-js/stdlib/pull/8311)
 -   [`3a77e5b`](https://github.com/stdlib-js/stdlib/commit/3a77e5b3dc949ab8abfe0b372dc1f2ca94ee698e) - update `math/special` TypeScript declarations
 -   [`b8c8599`](https://github.com/stdlib-js/stdlib/commit/b8c859949da73f6f5f834ba91a00cb8b04bc0560) - add unary scaffold database and associated generation script [(#8084)](https://github.com/stdlib-js/stdlib/pull/8084)
@@ -69,6 +70,7 @@
 
 <details>
 
+-   [`76c09a7`](https://github.com/stdlib-js/stdlib/commit/76c09a7480fc8f9c1ce4846bfd63ecb65f5673ea) - **feat:** update math scaffold databases [(#8312)](https://github.com/stdlib-js/stdlib/pull/8312) _(by stdlib-bot)_
 -   [`50d8f17`](https://github.com/stdlib-js/stdlib/commit/50d8f17e5fb4a6fd9b9ef5919bf28a5632e824db) - **feat:** update math scaffold databases [(#8311)](https://github.com/stdlib-js/stdlib/pull/8311) _(by stdlib-bot)_
 -   [`be44dd1`](https://github.com/stdlib-js/stdlib/commit/be44dd10bbf2f4a3eaf81ee942c8bbb05372947d) - **revert:** fix: correct function references in `absgammaln` entry _(by Philipp Burckhardt)_
 -   [`3a77e5b`](https://github.com/stdlib-js/stdlib/commit/3a77e5b3dc949ab8abfe0b372dc1f2ca94ee698e) - **feat:** update `math/special` TypeScript declarations _(by Philipp Burckhardt)_
