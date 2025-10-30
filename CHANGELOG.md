@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-09-21)
+## Unreleased (2025-10-30)
 
 <section class="features">
 
 ### Features
 
+-   [`50d8f17`](https://github.com/stdlib-js/stdlib/commit/50d8f17e5fb4a6fd9b9ef5919bf28a5632e824db) - update math scaffold databases [(#8311)](https://github.com/stdlib-js/stdlib/pull/8311)
 -   [`3a77e5b`](https://github.com/stdlib-js/stdlib/commit/3a77e5b3dc949ab8abfe0b372dc1f2ca94ee698e) - update `math/special` TypeScript declarations
 -   [`b8c8599`](https://github.com/stdlib-js/stdlib/commit/b8c859949da73f6f5f834ba91a00cb8b04bc0560) - add unary scaffold database and associated generation script [(#8084)](https://github.com/stdlib-js/stdlib/pull/8084)
 -   [`ebe6958`](https://github.com/stdlib-js/stdlib/commit/ebe6958b249324104a1aeca54a75480fb6555cdf) - add unary function database in `math/special/data` [(#8065)](https://github.com/stdlib-js/stdlib/pull/8065)
@@ -68,6 +69,7 @@
 
 <details>
 
+-   [`50d8f17`](https://github.com/stdlib-js/stdlib/commit/50d8f17e5fb4a6fd9b9ef5919bf28a5632e824db) - **feat:** update math scaffold databases [(#8311)](https://github.com/stdlib-js/stdlib/pull/8311) _(by stdlib-bot)_
 -   [`be44dd1`](https://github.com/stdlib-js/stdlib/commit/be44dd10bbf2f4a3eaf81ee942c8bbb05372947d) - **revert:** fix: correct function references in `absgammaln` entry _(by Philipp Burckhardt)_
 -   [`3a77e5b`](https://github.com/stdlib-js/stdlib/commit/3a77e5b3dc949ab8abfe0b372dc1f2ca94ee698e) - **feat:** update `math/special` TypeScript declarations _(by Philipp Burckhardt)_
 -   [`3618307`](https://github.com/stdlib-js/stdlib/commit/3618307d26ce818f5c5f543a0ad22e24c319e4a7) - **fix:** access enum values via data type objects _(by Athan Reines)_
