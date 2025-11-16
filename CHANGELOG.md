@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`ec35e72`](https://github.com/stdlib-js/stdlib/commit/ec35e72d9b49b4b5c9d908dd7a497c7368e10249) - update math scaffold databases [(#8545)](https://github.com/stdlib-js/stdlib/pull/8545)
 -   [`c311a7c`](https://github.com/stdlib-js/stdlib/commit/c311a7cf87ca900c8494ea7a324e3e8f4d8c1329) - add `primary_dtype` for functions in `unary_function_database` [(#8538)](https://github.com/stdlib-js/stdlib/pull/8538)
 -   [`73d9130`](https://github.com/stdlib-js/stdlib/commit/73d913013348831c3fc9f0bb6c1fa585d011bb8f) - update math scaffold databases [(#8470)](https://github.com/stdlib-js/stdlib/pull/8470)
 -   [`80e4200`](https://github.com/stdlib-js/stdlib/commit/80e4200de213448339cf79c77c7bbd592435551e) - update math scaffold databases [(#8453)](https://github.com/stdlib-js/stdlib/pull/8453)
@@ -80,6 +81,7 @@
 
 <details>
 
+-   [`ec35e72`](https://github.com/stdlib-js/stdlib/commit/ec35e72d9b49b4b5c9d908dd7a497c7368e10249) - **feat:** update math scaffold databases [(#8545)](https://github.com/stdlib-js/stdlib/pull/8545) _(by stdlib-bot)_
 -   [`c311a7c`](https://github.com/stdlib-js/stdlib/commit/c311a7cf87ca900c8494ea7a324e3e8f4d8c1329) - **feat:** add `primary_dtype` for functions in `unary_function_database` [(#8538)](https://github.com/stdlib-js/stdlib/pull/8538) _(by Gunj Joshi)_
 -   [`a9fb57e`](https://github.com/stdlib-js/stdlib/commit/a9fb57ec46973d10d247dfbe68d0b11a24970688) - **docs:** update descriptions _(by Philipp Burckhardt)_
 -   [`73d9130`](https://github.com/stdlib-js/stdlib/commit/73d913013348831c3fc9f0bb6c1fa585d011bb8f) - **feat:** update math scaffold databases [(#8470)](https://github.com/stdlib-js/stdlib/pull/8470) _(by stdlib-bot)_
