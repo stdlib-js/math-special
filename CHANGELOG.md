@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-04)
+## Unreleased (2025-12-05)
 
 <section class="features">
 
 ### Features
 
+-   [`0d81289`](https://github.com/stdlib-js/stdlib/commit/0d812895bf69ea0843359084f62063c7a84d0eb8) - update math scaffold databases [(#8798)](https://github.com/stdlib-js/stdlib/pull/8798)
 -   [`611ea89`](https://github.com/stdlib-js/stdlib/commit/611ea89db523548ec89f57f184dbfd6581776d88) - update math scaffold databases [(#8774)](https://github.com/stdlib-js/stdlib/pull/8774)
 -   [`42b871c`](https://github.com/stdlib-js/stdlib/commit/42b871c36e81b4b81737c9007b431e005adebaea) - update math scaffold databases [(#8764)](https://github.com/stdlib-js/stdlib/pull/8764)
 -   [`6838830`](https://github.com/stdlib-js/stdlib/commit/6838830a8b3d310296bae08a191051a163a804ca) - update math scaffold databases [(#8740)](https://github.com/stdlib-js/stdlib/pull/8740)
@@ -87,6 +88,7 @@
 
 <details>
 
+-   [`0d81289`](https://github.com/stdlib-js/stdlib/commit/0d812895bf69ea0843359084f62063c7a84d0eb8) - **feat:** update math scaffold databases [(#8798)](https://github.com/stdlib-js/stdlib/pull/8798) _(by stdlib-bot)_
 -   [`611ea89`](https://github.com/stdlib-js/stdlib/commit/611ea89db523548ec89f57f184dbfd6581776d88) - **feat:** update math scaffold databases [(#8774)](https://github.com/stdlib-js/stdlib/pull/8774) _(by stdlib-bot)_
 -   [`42b871c`](https://github.com/stdlib-js/stdlib/commit/42b871c36e81b4b81737c9007b431e005adebaea) - **feat:** update math scaffold databases [(#8764)](https://github.com/stdlib-js/stdlib/pull/8764) _(by stdlib-bot)_
 -   [`6838830`](https://github.com/stdlib-js/stdlib/commit/6838830a8b3d310296bae08a191051a163a804ca) - **feat:** update math scaffold databases [(#8740)](https://github.com/stdlib-js/stdlib/pull/8740) _(by stdlib-bot)_
