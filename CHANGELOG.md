@@ -89,6 +89,7 @@
 
 <details>
 
+-   [`bba26d6`](https://github.com/stdlib-js/stdlib/commit/bba26d6b93fc742d7518ca4090787cd41f4659e0) - **chore:** add `float32` scalar kernel of `log1p` in unary function database [(#9452)](https://github.com/stdlib-js/stdlib/pull/9452) _(by Gunj Joshi)_
 -   [`15e0b09`](https://github.com/stdlib-js/stdlib/commit/15e0b09a9bda620a7a80e265049d8ffdc2e632b1) - **feat:** update math scaffold databases [(#9451)](https://github.com/stdlib-js/stdlib/pull/9451) _(by stdlib-bot)_
 -   [`0d81289`](https://github.com/stdlib-js/stdlib/commit/0d812895bf69ea0843359084f62063c7a84d0eb8) - **feat:** update math scaffold databases [(#8798)](https://github.com/stdlib-js/stdlib/pull/8798) _(by stdlib-bot)_
 -   [`611ea89`](https://github.com/stdlib-js/stdlib/commit/611ea89db523548ec89f57f184dbfd6581776d88) - **feat:** update math scaffold databases [(#8774)](https://github.com/stdlib-js/stdlib/pull/8774) _(by stdlib-bot)_
