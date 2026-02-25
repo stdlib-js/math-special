@@ -38,7 +38,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/math-special-abs": "^0.3.0",
+    "@stdlib/math-special-abs": "^0.3.1",
     "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {
@@ -66,13 +66,13 @@
     "@stdlib/ndarray-map": "^0.1.1",
     "@stdlib/ndarray-order": "^0.2.3",
     "@stdlib/ndarray-shape": "^0.2.3",
-    "@stdlib/ndarray-to-array": "^0.2.1",
-    "@stdlib/ndarray-zeros": "^0.3.0",
+    "@stdlib/ndarray-to-array": "^0.2.2",
+    "@stdlib/ndarray-zeros": "^0.3.1",
     "@stdlib/number-uint16-base-identity": "^0.1.1",
     "@stdlib/number-uint32-base-identity": "^0.1.1",
     "@stdlib/number-uint8-base-identity": "^0.1.1",
     "@stdlib/random-array-uniform": "^0.2.2",
-    "@stdlib/random-uniform": "^0.1.0",
+    "@stdlib/random-uniform": "^0.1.1",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-keys": "^0.2.3",
     "@stdlib/utils-nary-function": "^0.2.4",
