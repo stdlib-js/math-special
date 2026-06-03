@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`2978454`](https://github.com/stdlib-js/stdlib/commit/29784543332ee5b7d10e378a9fd6f714f0839b87) - update math scaffold databases [(#12483)](https://github.com/stdlib-js/stdlib/pull/12483)
 -   [`4642874`](https://github.com/stdlib-js/stdlib/commit/46428743c6ca413619dd38252ab747185a663171) - update math scaffold databases [(#12477)](https://github.com/stdlib-js/stdlib/pull/12477)
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`2978454`](https://github.com/stdlib-js/stdlib/commit/29784543332ee5b7d10e378a9fd6f714f0839b87) - **feat:** update math scaffold databases [(#12483)](https://github.com/stdlib-js/stdlib/pull/12483) _(by stdlib-bot)_
 -   [`4642874`](https://github.com/stdlib-js/stdlib/commit/46428743c6ca413619dd38252ab747185a663171) - **feat:** update math scaffold databases [(#12477)](https://github.com/stdlib-js/stdlib/pull/12477) _(by stdlib-bot)_
 -   [`823392d`](https://github.com/stdlib-js/stdlib/commit/823392d1ffb3c5284df53c1be033150b87d6ad85) - **docs:** update `math/special` TypeScript declarations [(#10479)](https://github.com/stdlib-js/stdlib/pull/10479) _(by stdlib-bot)_
 -   [`ddc8202`](https://github.com/stdlib-js/stdlib/commit/ddc820270cfbdc5f88b832442bf62752bbdc2b78) - **docs:** improve doctests for ndarray instances in `math/special/abs` [(#10435)](https://github.com/stdlib-js/stdlib/pull/10435) _(by AyushiJain18270)_
